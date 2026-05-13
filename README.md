@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-<b>Modra</b> — <i>Launching soon</i><br>
+<b>Modra</b> — <i>Completed</i><br>
 AI-powered platform transforming ideas and datasets into structured presentations, charts, and visual storytelling workflows.
 </p>
 
