@@ -50,6 +50,11 @@ Interactive educational app visualizing historical timelines and relationships u
 Desktop-first dashboard experience with modular widgets, real-time UI, and large-screen optimized architecture.
 </p>
 
+<p align="left">
+<b>Cargo Lab</b> — <i>Completed</i><br>
+Experimental frontend playground exploring animated data visualization, interactive cargo systems, and high-interaction UI architecture.
+</p>
+
 ---
 
 <h2 align="left">I code with</h2>
