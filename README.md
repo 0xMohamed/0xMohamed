@@ -32,7 +32,7 @@
 <h2 align="left">Featured Work</h2>
 
 <p align="left">
-🔗 <a href="https://www.seoudy.dev" target="_blank"><b>View selected projects on my portfolio</b></a>
+🔗 <a href="https://www.seoudy.dev#projects" target="_blank"><b>View selected projects on my portfolio</b></a>
 </p>
 
 <p align="left">
