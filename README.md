@@ -84,7 +84,7 @@ Experimental frontend playground exploring animated data visualization, interact
 <h2 align="left">Connect</h2>
 
 <p align="left">
-📧 hello@seoudy.dev <br>
+📧 <a href="mailto:hello@seoudy.dev">hello@seoudy.dev</a> <br>
 💼 <a href="https://github.com/">GitHub</a> <br>
 🔗 <a href="#">LinkedIn</a> <br>
 🐦 <a href="#">Twitter</a>
