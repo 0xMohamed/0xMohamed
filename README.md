@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  I'm Mohamed Seoudy — Full-Stack Developer focused on building AI-driven products, interactive systems, and scalable web applications.
+  I'm Mohamed Seoudy — Frontend Engineer focused on building data-driven UI systems, interactive products, and scalable frontend architectures.
 </p>
 
 <p align="left">
@@ -20,10 +20,10 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-💻 Full-stack developer building scalable, production-ready applications. <br>
-🤖 Focused on AI-powered interfaces, interactive experiences, and modern web architectures. <br>
-🧠 I enjoy solving complex engineering problems and designing clean, maintainable systems. <br>
-🎯 Goal: turn ideas into real products people actually use. <br>
+💻 Frontend Engineer building complex, interaction-heavy, data-driven interfaces. <br>
+🧠 Focused on system-level UI architecture, including patterns like Server-Driven UI (SDUI) and schema-driven rendering. <br>
+⚙️ I design systems where UI is dynamically composed from structured data rather than hardcoded layouts. <br>
+🚀 I enjoy solving complex engineering problems and turning ideas into production-ready products. <br>
 ⚡ Fun fact: I fix bugs I didn’t write and create ones I don’t remember writing.
 </p>
 
@@ -37,27 +37,27 @@
 
 <p align="left">
 <b>Modra</b> — <i>Completed</i><br>
-AI-powered platform transforming ideas and datasets into structured presentations, charts, and visual storytelling workflows.
+AI-powered platform that transforms ideas and datasets into structured presentations, charts, and visual storytelling workflows. Built using flexible, data-driven UI patterns and dynamic rendering systems.
 </p>
 
 <p align="left">
 <b>Basira</b> — <i>Completed</i><br>
-Interactive educational app visualizing historical timelines and relationships using graph-based structures and intuitive navigation.
+Interactive educational system visualizing historical timelines and relationships using graph-based structures, custom rendering, and intuitive navigation.
 </p>
 
 <p align="left">
 <b>DESKBY</b> — <i>Completed</i><br>
-Desktop-first dashboard experience with modular widgets, real-time UI, and large-screen optimized architecture.
+Desktop-first dashboard system with modular widgets, dynamic layouts, and scalable UI architecture for large-screen experiences.
 </p>
 
 <p align="left">
 <b>Cargo Lab</b> — <i>Completed</i><br>
-Experimental frontend playground exploring animated data visualization, interactive cargo systems, and high-interaction UI architecture.
+Experimental playground exploring data visualization, high-interaction UI, and dynamic rendering systems.
 </p>
 
 ---
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -68,15 +68,9 @@ Experimental frontend playground exploring animated data visualization, interact
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
 </div>
 
 ---
@@ -85,7 +79,6 @@ Experimental frontend playground exploring animated data visualization, interact
 
 <p align="left">
 📧 <a href="mailto:hello@seoudy.dev">hello@seoudy.dev</a> <br>
-💼 <a href="https://github.com/">GitHub</a> <br>
-🔗 <a href="#">LinkedIn</a> <br>
+🔗 <a href="https://www.linkedin.com/in/0xmohamed/">LinkedIn</a> <br>
 🐦 <a href="#">Twitter</a>
 </p>
