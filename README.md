@@ -36,23 +36,28 @@
 </p>
 
 <p align="left">
+<b>Oqel</b> — <i>Completed</i><br>
+AI-powered visual intelligence workspace combining vision grounding, structured reasoning, and interactive visual reports to help users inspect, understand, and explore images.
+</p>
+
+<p align="left">
 <b>Modra</b> — <i>Completed</i><br>
-AI-powered platform that transforms ideas and datasets into structured presentations, charts, and visual storytelling workflows. Built using flexible, data-driven UI patterns and dynamic rendering systems.
+AI-powered platform for transforming ideas and datasets into structured presentations, interactive charts, and data-driven storytelling experiences.
 </p>
 
 <p align="left">
 <b>Basira</b> — <i>Completed</i><br>
-Interactive educational system visualizing historical timelines and relationships using graph-based structures, custom rendering, and intuitive navigation.
+Interactive educational platform for exploring historical timelines, relationships, and biographies through graph-based visualization.
 </p>
 
 <p align="left">
-<b>DESKBY</b> — <i>Completed</i><br>
-Desktop-first dashboard system with modular widgets, dynamic layouts, and scalable UI architecture for large-screen experiences.
+<b>Deskby</b> — <i>Completed</i><br>
+Desktop-first modular dashboard inspired by Apple StandBy, focused on calm interaction, responsive layouts, and scalable UI architecture.
 </p>
 
 <p align="left">
 <b>Cargo Lab</b> — <i>Completed</i><br>
-Experimental playground exploring data visualization, high-interaction UI, and dynamic rendering systems.
+Experimental playground exploring high-interaction interfaces, creative data visualization, and modern frontend architecture.
 </p>
 
 ---
