@@ -1,89 +1,56 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-<p align="left">
-  I'm Mohamed Seoudy — Frontend Engineer focused on building data-driven UI systems, interactive products, and scalable frontend architectures.
-</p>
+# Mohamed Seoudy
 
-<p align="left">
-  🚀 Explore my work: 
-  <a href="https://www.seoudy.dev" target="_blank"><b>seoudy.dev</b></a>
-</p>
+**Full-Stack Engineer** · TypeScript · Node.js · React · PostgreSQL
 
-<p align="left">
-  <a href="https://www.seoudy.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-seoudy.dev-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+Building interactive products, reliable software systems, and data-intensive applications.
 
----
+[Portfolio](https://www.seoudy.dev) · [LinkedIn](https://www.linkedin.com/in/0xmohamed/) · [Email](mailto:hello@seoudy.dev)
 
-<h2 align="left">About me</h2>
-
-<p align="left">
-💻 Frontend Engineer building complex, interaction-heavy, data-driven interfaces. <br>
-🧠 Focused on system-level UI architecture, including patterns like Server-Driven UI (SDUI) and schema-driven rendering. <br>
-⚙️ I design systems where UI is dynamically composed from structured data rather than hardcoded layouts. <br>
-🚀 I enjoy solving complex engineering problems and turning ideas into production-ready products. <br>
-⚡ Fun fact: I fix bugs I didn’t write and create ones I don’t remember writing.
-</p>
-
----
-
-<h2 align="left">Featured Work</h2>
-
-<p align="left">
-🔗 <a href="https://www.seoudy.dev/work" target="_blank"><b>View selected projects on my portfolio</b></a>
-</p>
-
-<p align="left">
-<b>Oqel</b> — <i>Completed</i><br>
-AI-powered visual intelligence workspace combining vision grounding, structured reasoning, and interactive visual reports to help users inspect, understand, and explore images.
-</p>
-
-<p align="left">
-<b>Modra</b> — <i>Completed</i><br>
-AI-powered platform for transforming ideas and datasets into structured presentations, interactive charts, and data-driven storytelling experiences.
-</p>
-
-<p align="left">
-<b>Basira</b> — <i>Completed</i><br>
-Interactive educational platform for exploring historical timelines, relationships, and biographies through graph-based visualization.
-</p>
-
-<p align="left">
-<b>Deskby</b> — <i>Completed</i><br>
-Desktop-first modular dashboard inspired by Apple StandBy, focused on calm interaction, responsive layouts, and scalable UI architecture.
-</p>
-
-<p align="left">
-<b>Cargo Lab</b> — <i>Completed</i><br>
-Experimental playground exploring high-interaction interfaces, creative data visualization, and modern frontend architecture.
-</p>
-
----
-
-<h2 align="left">Tech Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
 </div>
 
 ---
 
-<h2 align="left">Connect</h2>
+## About Me
 
-<p align="left">
-📧 <a href="mailto:hello@seoudy.dev">hello@seoudy.dev</a> <br>
-🔗 <a href="https://www.linkedin.com/in/0xmohamed/">LinkedIn</a> <br>
-🐦 <a href="#">Twitter</a>
-</p>
+I'm a Full-Stack Engineer with 4+ years of hands-on experience building interactive web applications and the systems behind them.
+
+My background combines frontend architecture, complex UI systems, and data visualization with more recent experience building TypeScript backends, APIs, and AI-powered product capabilities.
+
+I spent three years as the sole frontend engineer on a data-storytelling product. Since 2026, I've also been building independent products end to end, working across application architecture, backend services, data persistence, and frontend experiences.
+
+I enjoy solving problems where maintainability, data integrity, and user experience intersect.
+
+## Engineering Focus
+
+- **Frontend Architecture:** Complex state management, schema-driven interfaces, interactive editors, responsive layouts, and performance optimization.
+- **Backend Engineering:** TypeScript APIs, PostgreSQL, transactional workflows, data validation, authentication, and reliable integrations.
+- **AI Engineering:** Structured LLM output, schema validation, multimodal workflows, output repair, and graceful fallbacks.
+- **Data Visualization:** Interactive visualizations and custom rendering with D3.js, SVG, and Canvas.
+
+## Engineering Approach
+
+I value explicit contracts between system boundaries, predictable data flows, and architecture that evolves with product complexity.
+
+I approach reliability as part of the design: validating inputs, handling failure paths, testing critical workflows, and considering accessibility and performance from the beginning.
+
+## Technical Toolkit
+
+| Area | Technologies |
+|---|---|
+| **Languages** | TypeScript, JavaScript, SQL, Python |
+| **Frontend** | React, TanStack Start, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS |
+| **Backend & Data** | Node.js, Hono, Fastify, Express, PostgreSQL, Prisma, Drizzle, Zod |
+| **Visualization** | D3.js, Visx, Canvas API, SVG, Three.js |
+| **AI & Integrations** | Google Gemini, Groq, OpenRouter, MCP, UCP |
+| **Testing & Tooling** | Vitest, Playwright, GitHub Actions, Docker, pnpm, Turborepo |
+| **Infrastructure** | Vercel, Railway, Cloudflare R2 |
+
+---
+
+## Connect
+
+- **Portfolio:** [seoudy.dev](https://www.seoudy.dev)
+- **LinkedIn:** [linkedin.com/in/0xmohamed](https://www.linkedin.com/in/0xmohamed/)
+- **Email:** [hello@seoudy.dev](mailto:hello@seoudy.dev)
