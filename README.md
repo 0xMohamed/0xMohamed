@@ -20,20 +20,11 @@ My background combines frontend architecture, complex UI systems, and data visua
 
 I spent three years as the sole frontend engineer on a data-storytelling product. Since 2026, I've also been building independent products end to end, working across application architecture, backend services, data persistence, and frontend experiences.
 
-I enjoy solving problems where maintainability, data integrity, and user experience intersect.
+## Engineering Principles
 
-## Engineering Focus
-
-- **Frontend Architecture:** Complex state management, schema-driven interfaces, interactive editors, responsive layouts, and performance optimization.
-- **Backend Engineering:** TypeScript APIs, PostgreSQL, transactional workflows, data validation, authentication, and reliable integrations.
-- **AI Engineering:** Structured LLM output, schema validation, multimodal workflows, output repair, and graceful fallbacks.
-- **Data Visualization:** Interactive visualizations and custom rendering with D3.js, SVG, and Canvas.
-
-## Engineering Approach
-
-I value explicit contracts between system boundaries, predictable data flows, and architecture that evolves with product complexity.
-
-I approach reliability as part of the design: validating inputs, handling failure paths, testing critical workflows, and considering accessibility and performance from the beginning.
+- **Explicit Contracts:** Favor typed interfaces and schema validation at system boundaries to make communication between application layers predictable.
+- **Data Integrity by Design:** Build around consistent data mutations, transactional workflows, and well-defined failure handling rather than happy-path assumptions.
+- **Architecture with Intent:** Let abstractions evolve with product complexity while keeping systems modular, testable, and maintainable.
 
 ## Technical Toolkit
 
@@ -43,7 +34,7 @@ I approach reliability as part of the design: validating inputs, handling failur
 | **Frontend** | React, TanStack Start, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS |
 | **Backend & Data** | Node.js, Hono, Fastify, Express, PostgreSQL, Prisma, Drizzle, Zod |
 | **Visualization** | D3.js, Visx, Canvas API, SVG, Three.js |
-| **AI & Integrations** | Google Gemini, Groq, OpenRouter, MCP, UCP |
+| **AI & Integrations** | Vercel AI SDK, Google Gemini, Groq, OpenRouter, MCP, UCP |
 | **Testing & Tooling** | Vitest, Playwright, GitHub Actions, Docker, pnpm, Turborepo |
 | **Infrastructure** | Vercel, Railway, Cloudflare R2 |
 
